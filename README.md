@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-Kumar-Barman/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Harsh-Kumar-Barman/DSA/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-Kumar-Barman/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Harsh-Kumar-Barman/DSA/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Harsh-Kumar-Barman/DSA/tree/master/0125-valid-palindrome) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harsh-Kumar-Barman/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
